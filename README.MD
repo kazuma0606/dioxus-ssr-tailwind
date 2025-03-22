@@ -1,6 +1,3 @@
-こちらがマークダウン形式で整えた `README.md` です。コピペしてそのまま `README.md` として使えます：
-
----
 
 ```markdown
 # Dioxus SSR + TailwindCSS Starter
@@ -86,7 +83,3 @@ cargo run
 
 MIT
 ```
-
----
-
-内容のカスタマイズ（例: Twitterのリンク追加、プロジェクト名の挿入）もいつでも対応できます。お気軽にどうぞ！
